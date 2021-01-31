@@ -1,13 +1,1 @@
-
-Line code added 
-SlideLine code notadded
-
-
--- Added new lines for Sidelines
-Side line 1
-Side line 12
-
-SND-Helo code added
-
-Auth code has been added.
-SDN Code has been added.
+Only server code
