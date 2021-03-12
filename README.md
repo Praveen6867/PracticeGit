@@ -1,2 +1,0 @@
-# PracticeGit
-Practice Git
